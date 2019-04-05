@@ -19,5 +19,18 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 - Cluster merger effects on infalling disk galaxies
 
 ## Publications
+(4) Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
 
+    Kwak, SungWon; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)
 
+(3) Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability
+
+    Kwak, SungWon; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (to be submitted)
+
+(2) Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies
+
+    Seo, Woo-Young; Kim, Woong-Tae; Kwak, SungWon; Hsieh, Pei-Ying; Han, Cheongho; & Hopkins, Phil F., ApJ, 872, 5 (2019)
+
+(1) Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling
+
+    Kwak, SungWon; Kim, Woong-Tae; Rey, Soo-Chang; & Kim, Suk, ApJ, 839, 24 (2017)
