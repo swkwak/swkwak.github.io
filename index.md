@@ -31,7 +31,7 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 
   _Seo, Woo-Young; Kim, Woong-Tae; **Kwak, SungWon**; Hsieh, Pei-Ying; Han, Cheongho; & Hopkins, Phil F., ApJ, 872, 5 (2019)_
 
-**1.**[(arXiv)](https://arxiv.org/abs/1703.10285) Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling
+**1.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling [(arXiv)](https://arxiv.org/abs/1703.10285)
 
   _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Kim, Suk, ApJ, 839, 24 (2017)_
 
