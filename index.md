@@ -9,7 +9,7 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 
 - 2016 M.S. Astronomy, Seoul National University
 
-## [Research Fields](./research.html)(click)
+## [Research Fields](./research.html) ###(click for more info!)
 
 - Dwarf galaxies in clusters
 - Blue cores of dwarf galaxies
