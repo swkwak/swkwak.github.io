@@ -19,21 +19,21 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 - Blue cores of dwarf galaxies in clusters (ongoing)
 
 ## Publications
-**4.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
+- **4.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
 
-  _**Kwak, SungWon**; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)_
+  - _**Kwak, SungWon**; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)_
 
-**3.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability
+- **3.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability
 
-  _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (to be submitted)_
+  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (to be submitted)_
 
-**2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies [(arXiv)](https://arxiv.org/abs/1901.02021)
+- **2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies [(arXiv)](https://arxiv.org/abs/1901.02021)
 
-  _Seo, Woo-Young; Kim, Woong-Tae; **Kwak, SungWon**; Hsieh, Pei-Ying; Han, Cheongho; & Hopkins, Phil F., ApJ, 872, 5 (2019)_
+  - _Seo, Woo-Young; Kim, Woong-Tae; **Kwak, SungWon**; Hsieh, Pei-Ying; Han, Cheongho; & Hopkins, Phil F., ApJ, 872, 5 (2019)_
 
-**1.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling [(arXiv)](https://arxiv.org/abs/1703.10285)
+- **1.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling [(arXiv)](https://arxiv.org/abs/1703.10285)
 
-  _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Kim, Suk, ApJ, 839, 24 (2017)_
+  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Kim, Suk, ApJ, 839, 24 (2017)_
 
 
 
