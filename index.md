@@ -5,11 +5,11 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 
 ## Education
 
-2014 B.S. Physics & Astronomy, University of Washington
+- 2014 B.S. Physics & Astronomy, University of Washington
 
-2016 M.S. Astronomy, Seoul National University
+- 2016 M.S. Astronomy, Seoul National University
 
-## Research 
+## Research Fields
 
 - Dwarf galaxies in clusters
 - Blue cores of dwarf galaxies
