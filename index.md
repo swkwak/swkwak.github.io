@@ -1,7 +1,7 @@
-# Welcome to SungWon Kwak's Homepage
+## Greetings!
 
-Hi, I'm SungWon Kwak and studying astronomy using computer.
-Currently, I'm serving military service at Korea Astronomy and Space Science Institute as a technical staff.
+Hi, I'm SungWon Kwak and study astronomy using computer simulations.
+Currently, I'm serving military service at Korea Astronomy and Space Science Institute as a technical staff (until 2019 Aug.).
 
 ## Education
 
@@ -11,6 +11,13 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 
 ## Research 
 
+- Dwarf galaxies in clusters
+- Blue cores of dwarf galaxies
+- Tidal effects
+- Galactic bar and sprial arms
+- Gas effects on bar and nuclear ring
+- Cluster merger effects on infalling disk galaxies
+
 ## Publications
 
-## Skills
+
