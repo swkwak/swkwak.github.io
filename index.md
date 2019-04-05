@@ -1,7 +1,7 @@
 ## Greetings!
 
 Hi, I'm SungWon Kwak and study astronomy using computer simulations.
-Currently, I'm serving military service at Korea Astronomy and Space Science Institute as a technical staff (3 years from 2016 Sept. to 2019 Aug.). You can find [my CV here](./../file/CV19.pdf) for more details!
+Currently, I'm serving military service at Korea Astronomy and Space Science Institute as a technical staff (3 years from 2016 Sept. to 2019 Aug.). You can find [my CV here](./file/CV19.pdf) for more details!
 
 ## Education
 
