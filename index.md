@@ -27,7 +27,7 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 
   _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (to be submitted)_
 
-**2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies
+**2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies [(arXiv)](https://arxiv.org/abs/1901.02021)
 
   _Seo, Woo-Young; Kim, Woong-Tae; **Kwak, SungWon**; Hsieh, Pei-Ying; Han, Cheongho; & Hopkins, Phil F., ApJ, 872, 5 (2019)_
 
