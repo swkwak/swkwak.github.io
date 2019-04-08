@@ -37,5 +37,3 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 
 
 
-
-_(last updated on 2019.04.05)_
