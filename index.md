@@ -1,6 +1,3 @@
-
-![sample](./img/sample.png)
-
 ## Greetings!
 
 Hi, I'm SungWon Kwak and study astronomy using computer simulations.
@@ -13,6 +10,8 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 - 2014 B.S. Physics & Astronomy, University of Washington
 
 ## [Research Fields](./research.html)
+
+![sample](./img/sample2.png)
 
 - Dwarf galaxies in clusters
 - Galactic bar and sprial arms
