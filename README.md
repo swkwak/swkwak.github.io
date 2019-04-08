@@ -1,2 +1,6 @@
 # swkwak.github.io
-My homepage
+[home](https://swkwak.github.io/)
+[research](./research.html)
+
+
+_(last updated 2019.04.08)_
