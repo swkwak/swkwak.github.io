@@ -11,7 +11,7 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 
 ## [Research Fields](./research.html)
 
-![sample](./img/sample2.png)
+   ![sample](./img/sample2.png)
 
 - Dwarf galaxies in clusters
 - Galactic bar and sprial arms
