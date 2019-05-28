@@ -21,13 +21,17 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 - Blue cores of dwarf galaxies in clusters (ongoing)
 
 ## Publications
-- **4.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
+- **5.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
 
   - _**Kwak, SungWon**; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)_
 
-- **3.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability
+- **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability
 
-  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (to be submitted)_
+  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (submitted to ApJ)_
+  
+- **3.** The Geometric Albedo of (4179) Toutatis Estimated from KMTNet DEEP-South Observation [(arXiv)](https://arxiv.org/abs/1905.08576)
+
+  - _Bach, Yoonsoo P., **et al.** (accepted to JKAS)_
 
 - **2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies [(arXiv)](https://arxiv.org/abs/1901.02021)
 
