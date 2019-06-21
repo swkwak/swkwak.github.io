@@ -18,8 +18,7 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 - Blue cores of dwarf galaxies in clusters (ongoing)
 
 - movie: A gaseous disk galaxy under strong tidal forcing
-<iframe width="560" height="315" src="
-https://youtu.be/AEoiyt9qSbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/AEoiyt9qSbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ## Publications
