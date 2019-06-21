@@ -17,8 +17,8 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 - Galactic bar and sprial arms
 - Tidal effects and galaxy mergers
 - Gas effects on bar and nuclear ring
-- Cluster merger effects on infalling disk galaxies (ongoing) [movie](https://youtu.be/AEoiyt9qSbI)
-- Blue cores of dwarf galaxies in clusters (ongoing) [movie](https://youtu.be/n4uWMrL6USk)
+- Cluster merger effects on infalling disk galaxies (ongoing) [(movie)](https://youtu.be/AEoiyt9qSbI)
+- Blue cores of dwarf galaxies in clusters (ongoing) [(movie)](https://youtu.be/n4uWMrL6USk)
 
 ## Publications
 - **5.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
