@@ -10,15 +10,17 @@ Currently, I'm serving military service at Korea Astronomy and Space Science Ins
 - 2014 B.S. Physics & Astronomy, University of Washington
 
 ## [Research Fields](./research.html)
-
-   ![sample](./img/sample2.png)
-
 - Dwarf galaxies in clusters
 - Galactic bar and sprial arms
 - Tidal forces and galaxy mergers
 - Gas effects on bar and nuclear ring
 - Cluster merger effects on infalling disk galaxies (ongoing)
 - Blue cores of dwarf galaxies in clusters (ongoing)
+
+- movie: A gaseous disk galaxy under strong tidal forcing
+<iframe width="560" height="315" src="
+https://youtu.be/AEoiyt9qSbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Publications
 - **5.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
