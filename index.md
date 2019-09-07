@@ -3,11 +3,11 @@
 Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can find [my CV here](./file/CV22.pdf) for more details!
 
 ## Education
-- 2022 Ph.D. (expected) Astronomy and Astrophysics, University of Rome, La Sapienza and Tor Vergata
+- (expected) 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
 
-- 2016 M.S. Astronomy, Seoul National University
+- 2016 M.S. Astronomy at Seoul National University
 
-- 2014 B.S. Physics & Astronomy, University of Washington
+- 2014 B.S. Physics & Astronomy at the University of Washington, Seattle
 
 ## [Research Fields](./research.html)
 
