@@ -1,9 +1,9 @@
 ## Greetings!
 
-Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can find [my CV here](./file/CV22.pdf) for more details!
+Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can find [my CV here](./file/CV23.pdf) for more details!
 
 ## Education
-- (expected) 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
+- 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
 
 - 2016 M.S. Astronomy at Seoul National University
 
@@ -18,7 +18,7 @@ Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can 
 - Tidal effects and galaxy mergers
 - Gas effects on bar and nuclear ring
 - Cluster merger effects on infalling disk galaxies (ongoing) [(movie)](https://youtu.be/AEoiyt9qSbI)
-- Blue cores of dwarf galaxies in clusters (ongoing) [(movie)](https://youtu.be/n4uWMrL6USk)
+- Gaseous dwarf galaxies in clusters (ongoing) [(movie)](https://youtu.be/n4uWMrL6USk)
 
 ## Publications
 - **5.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
