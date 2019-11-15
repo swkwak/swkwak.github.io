@@ -1,6 +1,6 @@
 ## Greetings!
 
-Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can find [my CV here](./file/CV23.pdf) for more details!
+Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulations. You can find [my CV here](./file/CV23.pdf) for more details!
 
 ## Education
 - 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
@@ -17,11 +17,11 @@ Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can 
 
 - Dwarf satellites around our Galaxy
 - Dwarf galaxies in clusters
+- Gaseous dwarfs in clusters [(movie)](https://youtu.be/n4uWMrL6USk)
 - Galactic bar and sprial arms
 - Tidal effects and galaxy mergers
 - Gas effects on bar and nuclear ring
-- Cluster merger effects on infalling disk galaxies (ongoing) [(movie)](https://youtu.be/AEoiyt9qSbI)
-- Gaseous dwarf galaxies in clusters (ongoing) [(movie)](https://youtu.be/n4uWMrL6USk)
+- Cluster merger effects on infalling disk galaxies [(movie)](https://youtu.be/AEoiyt9qSbI)
 
 ## Publications
 - **5.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
