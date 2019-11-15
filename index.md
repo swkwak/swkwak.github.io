@@ -5,6 +5,8 @@ Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can 
 ## Education
 - 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
 
+- 2019 Compulsory Military Service (3 years)
+
 - 2016 M.S. Astronomy at Seoul National University
 
 - 2014 B.S. Physics & Astronomy at the University of Washington, Seattle
@@ -13,6 +15,7 @@ Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can 
 
 ![sample](./img/sample2.png)
 
+- Dwarf satellites around our Galaxy
 - Dwarf galaxies in clusters
 - Galactic bar and sprial arms
 - Tidal effects and galaxy mergers
@@ -25,9 +28,9 @@ Hello, I'm SungWon Kwak and study astronomy using computer simulations. You can 
 
   - _**Kwak, SungWon**; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)_
 
-- **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability
+- **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability [(arXiv)](https://arxiv.org/abs/1911.05094)
 
-  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (submitted to ApJ)_
+  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (accepted to ApJ)_
   
 - **3.** The Geometric Albedo of (4179) Toutatis Estimated from KMTNet DEEP-South Observation [(arXiv)](https://arxiv.org/abs/1905.08576) [(ads)](http://adsabs.harvard.edu/abs/2019arXiv190508576B)
 
