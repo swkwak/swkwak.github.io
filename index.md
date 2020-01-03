@@ -1,6 +1,6 @@
 ## Greetings!
 
-Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulations. You can find [my CV here](./file/CV23.pdf) for more details!
+Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulations. You can find [my CV here](./file/CV24.pdf) for more details!
 
 ## Education
 - 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
@@ -15,9 +15,9 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulati
 
 ![sample](./img/sample2.png)
 
-- Dwarf satellites around our Galaxy
-- Dwarf galaxies in clusters
-- Gaseous dwarfs in clusters [(movie)](https://youtu.be/n4uWMrL6USk)
+- Chemical Evolution of our Galaxy
+- Dwarf galaxies
+- Gaseous dwarfs under cluster tidal force [(movie)](https://youtu.be/n4uWMrL6USk)
 - Galactic bar and sprial arms
 - Tidal effects and galaxy mergers
 - Gas effects on bar and nuclear ring
@@ -28,13 +28,13 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulati
 
   - _**Kwak, SungWon**; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)_
 
-- **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability [(arXiv)](https://arxiv.org/abs/1911.05094)
+- **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability [(arXiv)](https://arxiv.org/abs/1911.05094) [(ads)](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..139K/abstract)
 
-  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R. (accepted to ApJ)_
+  - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R., ApJ, 887, 139K (2019)
   
 - **3.** The Geometric Albedo of (4179) Toutatis Estimated from KMTNet DEEP-South Observation [(arXiv)](https://arxiv.org/abs/1905.08576) [(ads)](http://adsabs.harvard.edu/abs/2019arXiv190508576B)
 
-  - _Bach, Yoonsoo P., **et al.** (accepted to JKAS)_
+  - _Bach, Yoonsoo P., **et al.** 
 
 - **2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies [(arXiv)](https://arxiv.org/abs/1901.02021) [(ads)](http://adsabs.harvard.edu/abs/2019ApJ...872....5S)
 
