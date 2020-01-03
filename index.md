@@ -23,7 +23,7 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulati
 - Gas effects on bar and nuclear ring
 - Cluster merger effects on infalling disk galaxies [(movie)](https://youtu.be/AEoiyt9qSbI)
 
-## Publications [(ads)](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22kwak%2C%20sungwon%22)&sort=date%20desc%2C%20bibcode%20desc)
+## Publications [[ADS list]](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22kwak%2C%20sungwon%22)&sort=date%20desc%2C%20bibcode%20desc)
 - **5.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
 
   - _**Kwak, SungWon**; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)_
