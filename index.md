@@ -1,6 +1,6 @@
 ## Greetings!
 
-Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulations. You can find [my CV here](./file/CV24.pdf) for more details!
+Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulations. You can find [my CV here](./file/CV25.pdf) for more details!
 
 ## Education
 - 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
