@@ -1,13 +1,15 @@
 ## Greetings!
 
-Hello, I'm SungWon Kwak in Rome, Italy. I study galaxies using computer simulations. You can find [my CV here](./file/CV25.pdf) for more details!
+Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way and their formation scenario using the AURIGA simulations. You can find [my CV here](./file/CV26.pdf) for more details!
 
-## Education
+## Education/Training
 - 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
 
 - 2019 Compulsory Military Service (3 years)
 
 - 2016 M.S. Astronomy at Seoul National University
+
+- 2014 Internship at CERN
 
 - 2014 B.S. Physics & Astronomy at the University of Washington, Seattle
 
