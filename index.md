@@ -1,7 +1,8 @@
 ## SungWon Kwak's Homepage
-<img src="./img/mypic3.jpg" width="350">
+<img src="./img/mypic3.jpg" width="250">
 
-Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical properties and formation scenario by comparing a large catalog of RR Lyrae variables and the AURIGA simulations. You can find [my CV here](./file/CV_Kwak.pdf). 
+Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical properties and formation scenario by comparing a large catalog of RR Lyrae variables and the AURIGA simulations. You can find [my CV here](./file/CV_Kwak.pdf).
+
 [(My GitHub Page)](https://github.com/swkwak)
 
 
