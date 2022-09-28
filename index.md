@@ -15,9 +15,9 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical p
 
 ## [Research Fields](./research.html)
 
-![sample](./img/fixed_sg_halo_6_251.jpg)
 
-<img src="./img/fixed_sg_halo_6_251.jpg" width="200" height="200">
+
+<img src="./img/fixed_sg_halo_6_251.jpg" width="250">
 
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
 - Stellar Halo: The formation of the stellar halo of the Milky Way: mass distribution and chemodynamical properties.
