@@ -15,8 +15,7 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical p
 
 ## [Research Fields](./research.html)
 
-<img src="./img/fixed_sdm_halo_6_056.jpg" width="250">
-<img src="./img/fixed_sg_halo_6_251.jpg" width="250">
+<img src="./img/fixed_sdm_halo_6_056.jpg" width="250"><img src="./img/fixed_sg_halo_6_251.jpg" width="250">
 
 
 <img src="./img/kwak19.png" width="500">
