@@ -23,7 +23,7 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical p
 - Stellar Halo: The formation of the stellar halo of the Milky Way: mass distribution and chemodynamical properties.
 - Bulge/Disk: Metallicity gradients and the role of the Galactic bulge.
 - Dark Matter Halo: Finding a evolutionary connection among Bulge, Stellar Halo, and Dark Matter Halo.
-- Dwarf Galaxy in the Virgo Cluster (isolation, tidal force, and mergers)
+- Dwarf Galaxy in Galaxy Cluster (isolation, tidal force, and merger)
 - Bar and Spiral Formation
 - Gas effects on bar and nuclear ring
 - Gaseous dwarf formation under cluster tidal force [(movie)](https://youtu.be/n4uWMrL6USk)
