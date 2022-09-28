@@ -1,2 +1,1 @@
-# swkwak.github.io
-My Homepage
+# SungWon Kwak's Homepage
