@@ -17,7 +17,7 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical p
 
 ## [Research Fields](./research.html)
 
-<img src="./img/fixed_sdm_halo_6_056.jpg" width="250"><img src="./img/fixed_sg_halo_6_251.jpg" width="250">
+<img src="./img/fixed_sdm_halo_6_056.jpg" width="250"><img src="./img/fixed_sg_halo_6_251.jpg" width="250"><img src="./img/sample2.png" width="250">
 
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
 - Stellar Halo: The formation of the stellar halo of the Milky Way: mass distribution and chemodynamical properties.
@@ -56,6 +56,10 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical p
 - **1.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling [(arXiv)](https://arxiv.org/abs/1703.10285) [(ads)](http://adsabs.harvard.edu/abs/2017ApJ...839...24K)
 
   - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Kim, Suk, ApJ, 839, 24 (2017)_
+
+
+
+<img src="./img/swiss.JPG" width="500">
 
 
 
