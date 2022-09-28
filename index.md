@@ -34,13 +34,13 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical p
 
 
 - **7.** The Shape of the Galactic Halo up to 150 kpc through RR Lyrae and the Auriga Simulations
-Kwak, SungWon, et al. (submitted to A&A Letter)
+  - _**Kwak, SungWon**, et al. (submitted to A&A Letter)
 
-- **6.** On the Use of Field, RR Lyrae as Galactic Probes. VII. Mixed mode RR Lyrae variables in Fornax and in nearby dwarf galaxies
-Braga, V. F., et al. (accepted to MNRAS)
+- **6.** On the Use of Field, RR Lyrae as Galactic Probes. VII. Mixed mode RR Lyrae variables in Fornax and in nearby dwarf galaxies 
+  - _Braga, V. F., **et al.** (accepted to MNRAS)
 
 - **5.** On the Use of Field RR Lyrae as Galactic Probes. V. Optical and Radial Velocity Curve Templates
-Braga, V. F., et al., APJ, 919, 85B (2021) [(arXiv)](https://arxiv.org/abs/2107.00923) [(ads)](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract)
+  - _Braga, V. F., **et al.**, APJ, 919, 85B (2021) [(arXiv)](https://arxiv.org/abs/2107.00923) [(ads)](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract)
 
 - **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability [(arXiv)](https://arxiv.org/abs/1911.05094) [(ads)](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..139K/abstract)
 
