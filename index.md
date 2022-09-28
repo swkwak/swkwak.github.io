@@ -1,34 +1,43 @@
 ## Greetings!
 
-Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way and their formation scenario using the AURIGA simulations. You can find [my CV here](./file/CV26.pdf) for more details!
+Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical properties and formation scenario by comparing a large catalog of RR Lyrae variables and the AURIGA simulations. You can find [my CV here](./file/CV_Kwak.pdf).
 
 ## Education/Training
-- 2022 Ph.D. Astronomy and Astrophysics at the University of Rome, La Sapienza and Tor Vergata
+- 2019-2022 Ph.D. Astronomy & Astrophysics at the University of Rome (the AASS program)
 
-- 2019 Compulsory Military Service (3 years)
+- 2016-2019 Compulsory Military Service (3 years)
 
-- 2016 M.S. Astronomy at Seoul National University
+- 2014-2016 M.S. Astronomy at Seoul National University
 
-- 2014 Internship at CERN
+- Winter 2014 Internship at CERN
 
-- 2014 B.S. Physics & Astronomy at the University of Washington, Seattle
+- 2009-2013 B.S. Physics & Astronomy at the University of Washington, Seattle
 
 ## [Research Fields](./research.html)
 
-![sample](./img/sample2.png)
+![sample](./img/sample2.png) ![sample](./img/sample2.png) ![sample](./img/sample2.png)
 
-- Chemical Evolution of our Galaxy
-- Dwarf galaxies
-- Gaseous dwarfs under cluster tidal force [(movie)](https://youtu.be/n4uWMrL6USk)
-- Galactic bar and sprial arms
-- Tidal effects and galaxy mergers
+- Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
+- Stellar Halo: The formation of the stellar halo of the Milky Way: mass distribution and chemodynamical properties.
+- Bulge/Disk: Metallicity gradients and the role of the Galactic bulge.
+- Dark Matter Halo: Finding a evolutionary connection among Bulge, Stellar Halo, and Dark Matter Halo.
+- Dwarf Galaxy in the Virgo Cluster (isolation, tidal force, and mergers)
+- Bar and Spiral Formation
 - Gas effects on bar and nuclear ring
+- Gaseous dwarf formation under cluster tidal force [(movie)](https://youtu.be/n4uWMrL6USk)
 - Cluster merger effects on infalling disk galaxies [(movie)](https://youtu.be/AEoiyt9qSbI)
 
 ## Publications [[ADS list]](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22kwak%2C%20sungwon%22)&sort=date%20desc%2C%20bibcode%20desc)
-- **5.** Effects of Cluster-Group Merger on Bar Formation and Star Formation Rate of Infalling Disk Galaxies 
 
-  - _**Kwak, SungWon**; Kim, Woong-Tae; Quinn, Thomas R. (in prep.)_
+
+- **7.** The Shape of the Galactic Halo up to 150 kpc through RR Lyrae and the Auriga Simulations
+Kwak, SungWon, et al. (submitted to A&A Letter)
+
+- **6.** On the Use of Field, RR Lyrae as Galactic Probes. VII. Mixed mode RR Lyrae variables in Fornax and in nearby dwarf galaxies
+Braga, V. F., et al. (accepted to MNRAS)
+
+- **5.** On the Use of Field RR Lyrae as Galactic Probes. V. Optical and Radial Velocity Curve Templates
+Braga, V. F., et al., APJ, 919, 85B (2021) [(arXiv)](https://arxiv.org/abs/2107.00923) [(ads)](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract)
 
 - **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability [(arXiv)](https://arxiv.org/abs/1911.05094) [(ads)](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..139K/abstract)
 
