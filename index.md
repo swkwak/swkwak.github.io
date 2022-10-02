@@ -27,7 +27,7 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 <img src="./img/fixed_sdm_halo_6_056.jpg" width="250"><img src="./img/fixed_sg_halo_6_251.jpg" width="250">
 
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
-- Stellar Halo: The formation of the stellar halo of the Milky Way: mass distribution and chemodynamical properties.
+- Stellar Halo: The mass distribution, chemodynamical properties, and the formation scenario.
 - Bulge/Disk: Metallicity gradients and the role of the Galactic bulge.
 - Dark Matter Halo: Finding a evolutionary connection among Bulge, Stellar Halo, and Dark Matter Halo.
 - Dwarf Galaxies in Galaxy Cluster (isolation, tidal force, and merger)
