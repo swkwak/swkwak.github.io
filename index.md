@@ -1,7 +1,10 @@
 ## SungWon Kwak's Homepage
 <img src="./img/mypic3.jpg" width="250">
 
-Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical properties and formation scenario by comparing a large catalog of RR Lyrae variables and the AURIGA simulations. You can find [my CV here](./file/CV_Kwak.pdf).
+Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student here and study the Galactic Halo's chemodynamical properties and its formation scenario by comparing a large catalog of RR Lyrae variables (~180,000) and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My thesis covers several interesting numerical studies on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding it size, shape, and spin axis alignment with the stellar Halo and the Bulge. You can find [my CV here](./file/CV_Kwak.pdf).
+
+Before coming to Rome, I've been to many cities all around the world. After finishing middle school in Korea, I went to a high school in Las Vegas for a semester and then transferred to the Storm King high school in New York, USA. I started my undergraduate as an engineering major, but I became interested in Natural Science later, so I ended up getting double **B.S.** in astronomy and physics at the University of Washington, Seattle. After spending one semester in Geneve, Switzerland for an internship at CERN, I did my **M.S.** in Astronomy at Seoul National Univeristy and spent 3 years for mandatory military service in Daejeon, Korea. Now, I'm in Rome, Italy, and looking for a new place to continue my study and journey. 
+
 
 [(My GitHub Page)](https://github.com/swkwak)
 
@@ -29,6 +32,7 @@ Hello, I'm SungWon Kwak in Rome, Italy. I study the Milky Way's chemodynamical p
 - Dark Matter Halo: Finding a evolutionary connection among Bulge, Stellar Halo, and Dark Matter Halo.
 - Dwarf Galaxy in Galaxy Cluster (isolation, tidal force, and merger)
 - Bar and Spiral Formation
+- Buckling Instability [(movie)](https://www.youtube.com/watch?v=LZxPOnGpjvo)
 - Gas effects on bar and nuclear ring
 - Gaseous dwarf formation under cluster tidal force [(movie)](https://youtu.be/n4uWMrL6USk)
 - Cluster merger effects on infalling disk galaxies [(movie)](https://youtu.be/AEoiyt9qSbI)
