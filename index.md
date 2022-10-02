@@ -30,7 +30,7 @@ Before coming to Rome, I've been to many cities all around the world. I was born
 - Stellar Halo: The formation of the stellar halo of the Milky Way: mass distribution and chemodynamical properties.
 - Bulge/Disk: Metallicity gradients and the role of the Galactic bulge.
 - Dark Matter Halo: Finding a evolutionary connection among Bulge, Stellar Halo, and Dark Matter Halo.
-- Dwarf Galaxy in Galaxy Cluster (isolation, tidal force, and merger)
+- Dwarf Galaxies in Galaxy Cluster (isolation, tidal force, and merger)
 - Bar and Spiral Formation
 - Buckling Instability [(movie)](https://www.youtube.com/watch?v=LZxPOnGpjvo)
 - Gas effects on bar and nuclear ring
