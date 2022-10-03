@@ -26,8 +26,9 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 
 ## [Research Fields](./research.html)
 
-<img src="./img/buckling1.png" height="120"> 
-<img src="./img/kwak19.png" height="120"><img src="./img/seo_ring.png" height="120">
+<img src="./img/buckling1.png" height="150"> 
+
+<img src="./img/kwak19.png" height="150"><img src="./img/seo_ring.png" height="150">
 
 
 
