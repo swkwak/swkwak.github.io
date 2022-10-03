@@ -29,6 +29,7 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 <img src="./img/buckling1.png" height="150"> Bukcling Instability (Kwak et al. 2017)
 
 <img src="./img/kwak19.png" height="150"> <img src="./img/seo_ring.png" height="150"> 
+
 Faint spiral in dwarfs (Kwak et al. 2019) and Nuclear Ring (Seo et al. 2019) 
 
 
