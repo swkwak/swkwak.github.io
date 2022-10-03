@@ -40,7 +40,7 @@ _(the Auriga Simulations)_
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
 - Stellar Halo: The mass distribution, chemodynamical properties, and the formation scenario.
 - Bulge/Disk: Metallicity gradients and the role of the Galactic bulge.
-- Dark Matter Halo: Finding a evolutionary connection among Bulge, Stellar Halo, and Dark Matter Halo.
+- Dark Matter Halo: Finding evolutionary connection among Bulge, Stellar Halo, and Dark Matter Halo.
 - Dwarf Galaxies in Galaxy Cluster (isolation, tidal force, and merger)
 - Bar and Spiral Formation
 - Buckling Instability [(movie)](https://www.youtube.com/watch?v=LZxPOnGpjvo)
