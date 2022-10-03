@@ -47,7 +47,7 @@ _Faint spiral in dwarfs (Kwak et al. 2019) and Nuclear Ring (Seo et al. 2019)_
 
 <img src="./img/fixed_sdm_halo_6_056.jpg" width="250"><img src="./img/fixed_sg_halo_6_251.jpg" width="250"> 
 
-(the Auriga Simulations)
+_(the Auriga Simulations)_
 
 ## Publications [[ADS list]](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22kwak%2C%20sungwon%22)&sort=date%20desc%2C%20bibcode%20desc)
 
