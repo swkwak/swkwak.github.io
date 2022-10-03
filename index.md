@@ -36,7 +36,7 @@ _Faint spiral in dwarfs (Kwak et al. 2019) and Nuclear Ring (Seo et al. 2019)_
 
 _(the Auriga Simulations)_
 
-
+**My interests are:**
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
 - Stellar Halo: The mass distribution, chemodynamical properties, and the formation scenario.
 - Bulge/Disk: Metallicity gradients and the role of the Galactic bulge.
