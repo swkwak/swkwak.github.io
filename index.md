@@ -24,7 +24,7 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 
 - 2009-2013 B.S. Physics & Astronomy at the University of Washington, Seattle
 
-## [Research Fields](./research.html)
+## [Research](./research.html)
 
 <img src="./img/buckling1.png" height="150"> _Buckling Instability (Kwak et al. 2017)_
 
