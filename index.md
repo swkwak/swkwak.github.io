@@ -59,25 +59,25 @@ _(the Auriga Simulations)_
 - **7.** The Shape of the Galactic Halo up to 150 kpc through RR Lyrae and the Auriga Simulations
   - _**Kwak, SungWon**, et al. (submitted to A&A Letter)_
 
-- **6.** On the Use of Field, RR Lyrae as Galactic Probes. VII. Mixed mode RR Lyrae variables in Fornax and in nearby dwarf galaxies 
+- **6.** On the Use of Field, RR Lyrae as Galactic Probes. VII. Mixed mode RR Lyrae variables in Fornax and in nearby dwarf galaxies [(ads)](https://ui.adsabs.harvard.edu/abs/2022arXiv220914004B/abstract)
   - _Braga, V. F., **et al.** (accepted to MNRAS)_
 
-- **5.** On the Use of Field RR Lyrae as Galactic Probes. V. Optical and Radial Velocity Curve Templates [(arXiv)](https://arxiv.org/abs/2107.00923) [(ads)](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract)
+- **5.** On the Use of Field RR Lyrae as Galactic Probes. V. Optical and Radial Velocity Curve Templates [(ads)](https://ui.adsabs.harvard.edu/abs/2021ApJ...919...85B/abstract)
   - _Braga, V. F., **et al.**, APJ, 919, 85B (2021)_
 
-- **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability [(arXiv)](https://arxiv.org/abs/1911.05094) [(ads)](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..139K/abstract)
+- **4.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – II. Tidal Effects on Disk Features and Stability [(ads)](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..139K/abstract)
 
   - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Quinn, Thomas R., ApJ, 887, 139K (2019)_
   
-- **3.** The Geometric Albedo of (4179) Toutatis Estimated from KMTNet DEEP-South Observation [(arXiv)](https://arxiv.org/abs/1905.08576) [(ads)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract)
+- **3.** The Geometric Albedo of (4179) Toutatis Estimated from KMTNet DEEP-South Observation [(ads)](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract)
 
   - _Bach, Yoonsoo P., **et al.**, JKAS, 52, 71B (2019)_ 
 
-- **2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies [(arXiv)](https://arxiv.org/abs/1901.02021) [(ads)](http://adsabs.harvard.edu/abs/2019ApJ...872....5S)
+- **2.** Effects of Gas on Formation and Evolution of Stellar Bars and Gaseous Nuclear Rings in Disk Galaxies [(ads)](http://adsabs.harvard.edu/abs/2019ApJ...872....5S)
 
   - _Seo, Woo-Young; Kim, Woong-Tae; **Kwak, SungWon**; Hsieh, Pei-Ying; Han, Cheongho; & Hopkins, Phil F., ApJ, 872, 5 (2019)_
 
-- **1.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling [(arXiv)](https://arxiv.org/abs/1703.10285) [(ads)](http://adsabs.harvard.edu/abs/2017ApJ...839...24K)
+- **1.** Origin of Non-axisymmetric Features of Virgo Cluster Early-type Dwarf Galaxies – I. Bar Formation and Recurrent Buckling [(ads)](http://adsabs.harvard.edu/abs/2017ApJ...839...24K)
 
   - _**Kwak, SungWon**; Kim, Woong-Tae; Rey, Soo-Chang; & Kim, Suk, ApJ, 839, 24 (2017)_
 
