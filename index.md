@@ -8,8 +8,9 @@ Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student at the University of
 Before coming to Rome, I've been to many cities around the world. I was born in **Daejeon**, the Republic of Korea (South Korea), and my family moved to **Seoul** when I was 10 years old. After finishing my middle school in Seoul, I went to **USA** alone to study abroad. I went to a high school in **Las Vegas** for a semester and then transferred to the Storm King high school in **New York** where I graduated from. I started my undergraduate as an engineering major, but later became more interested in the outer world, so ended up getting double B.S. in astronomy and physics at the University of Washington, **Seattle**. After spending one semester in **Geneva, Switzerland** as an internship student at CERN, I did my M.S. in Astronomy at Seoul National Univeristy and spent 3 years for mandatory military service in Daejeon, Korea. Now, I'm in **Rome, Italy**, and looking for a new place to continue my study and journey. 
 
 
-[(My GitHub Page)](https://github.com/swkwak)
-
+[My GitHub](https://github.com/swkwak)
+[ORCID](https://orcid.org/0000-0003-0957-6201): 0000-0003-0957-6201
+[Google Scholar](https://scholar.google.com/citations?user=MozW8A0AAAAJ&hl=en)
 
 
 
