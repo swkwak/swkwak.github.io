@@ -1,5 +1,5 @@
 ## SungWon Kwak's Homepage
-<img src="./img/mypic3.jpg" width="250">
+<img src="./img/mypic3.jpg" height="350"><img src="./img/me_rome1.jpg" height="350">
 
 Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student at the University of Rome (joint by Sapienza and Tor Vergata) and study the Galactic Halo's chemodynamical properties and its formation scenario by comparing a large catalog of RR Lyrae variables (~180,000) and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My thesis also covers several interesting numerical studies on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding it size, shape, and spin axis alignment with the stellar Halo and the Bulge. You can find [my CV here](./file/CV_Kwak.pdf).
 
