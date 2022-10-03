@@ -16,7 +16,7 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 
 
 
-## Education/Training
+## Education/Experience
 - 2019-2022 Ph.D. Astronomy & Astrophysics at the University of Rome (the AASS program)
 
 - 2016-2019 Compulsory Military Service (3 years)
