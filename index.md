@@ -25,8 +25,10 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 - 2009-2013 B.S. Physics & Astronomy at the University of Washington, Seattle
 
 ## [Research Fields](./research.html)
+<img src="./img/buckling.jpg" width="250"> Buckling Instability
+<img src="./img/kwak19.jpg" width="250"> Faint Spiral in dwarfs
+<img src="./img/seo_ring.jpg" width="250"> Nuclear Ring
 
-<img src="./img/fixed_sdm_halo_6_056.jpg" width="250"><img src="./img/fixed_sg_halo_6_251.jpg" width="250">
 
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
 - Stellar Halo: The mass distribution, chemodynamical properties, and the formation scenario.
@@ -38,6 +40,9 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 - Gas effects on bar and nuclear ring
 - Gaseous dwarf formation under cluster tidal force [(movie)](https://youtu.be/n4uWMrL6USk)
 - Cluster merger effects on infalling disk galaxies [(movie)](https://youtu.be/AEoiyt9qSbI)
+
+<img src="./img/fixed_sdm_halo_6_056.jpg" width="250"><img src="./img/fixed_sg_halo_6_251.jpg" width="250"> 
+(the Auriga Simulations)
 
 ## Publications [[ADS list]](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22kwak%2C%20sungwon%22)&sort=date%20desc%2C%20bibcode%20desc)
 
