@@ -33,6 +33,7 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 Faint spiral in dwarfs (Kwak et al. 2019) and Nuclear Ring (Seo et al. 2019) 
 
 
+
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
 - Stellar Halo: The mass distribution, chemodynamical properties, and the formation scenario.
 - Bulge/Disk: Metallicity gradients and the role of the Galactic bulge.
