@@ -25,9 +25,9 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 - 2009-2013 B.S. Physics & Astronomy at the University of Washington, Seattle
 
 ## [Research Fields](./research.html)
-<img src="./img/buckling.jpg" width="250"> Buckling Instability
-<img src="./img/kwak19.jpg" width="250"> Faint Spiral in dwarfs
-<img src="./img/seo_ring.jpg" width="250"> Nuclear Ring
+<img src="./img/buckling.png" width="250"> Buckling Instability
+<img src="./img/kwak19.png" width="250"> Faint Spiral in dwarfs
+<img src="./img/seo_ring.png" width="250"> Nuclear Ring
 
 
 - Galaxy formation and evolution in cosmological zoom-in and isolated simulations.
