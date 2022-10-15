@@ -17,15 +17,15 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 
 
 ## Education/Experience
-- 2019-2022 Ph.D. Astronomy & Astrophysics at the University of Rome (the AASS program)
+- 2019-now **Ph.D**. Astronomy & Astrophysics at the University of Rome, joint by Sapienza and Tor Vergata (Defense expected in Jan. 2023)
 
 - 2016-2019 Compulsory Military Service (3 years)
 
-- 2014-2016 M.S. Astronomy at Seoul National University
+- 2014-2016 **M.S.** Astronomy at Seoul National University
 
 - Winter 2014 Internship at CERN
 
-- 2009-2013 B.S. Physics & Astronomy at the University of Washington, Seattle
+- 2009-2013 **B.S.** Physics & Astronomy at the University of Washington, Seattle
 
 ## [Research](./research.html)
 
