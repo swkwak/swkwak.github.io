@@ -17,7 +17,8 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 
 
 ## Education/Experience
-- 2019-now **Ph.D**. Astronomy & Astrophysics at the University of Rome, joint by Sapienza and Tor Vergata (Defense expected in Jan. 2023)
+- 2019-now **Ph.D**. Astronomy & Astrophysics at the University of Rome, joint by Sapienza and Tor Vergata 
+(Defense expected in Jan. 2023)
 
 - 2016-2019 Compulsory Military Service (3 years)
 
