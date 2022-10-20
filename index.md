@@ -1,9 +1,10 @@
 ## SungWon Kwak's Homepage
 <img src="./img/mypic3.jpg" height="300"> <img src="./img/me_rome3.jpg" height="300"> <img src="./img/me_rome1.jpg" height="300"> 
 
-Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student at the University of Rome (joint by Sapienza and Tor Vergata) and study the Galactic Halo and its formation scenario by comparing a large catalog of RR Lyrae variables (~180,000) and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My PhD thesis also covers several interesting numerical studies on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding its size, shape, and spin axis alignment with the stellar Halo and the Bulge.
+Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student at the University of Rome (joint by Sapienza and Tor Vergata) and study the chemodynamical properties of Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My PhD projects also cover several interesting studies on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding its size, shape, and spin axis alignment with the stellar Halo and the Bulge.
 
-You can find [my CV here](./file/CV_Kwak.pdf).
+
+Aside from the Milky Way, I also worked on the formation of spiral, bar, and nuclear ring. For my **MS** thesis, I studied the evolution of dwarf galaxies in isolation and the effects of tidal force (galaxy-galaxy, galaxy-cluster) and merger. While serving military service, I spent time working on the evolution of late-type galaxies in cluster-group merging and the formation of blue core and counter-rotating disk in dwarf galaxies. You can find more information on [my CV here](./file/CV_Kwak.pdf).
 
  <img src="./img/me_uw1.jpg" height="210"> <img src="./img/swiss3.jpg" height="210"> <img src="./img/me_paris1.jpg" height="210">
 
