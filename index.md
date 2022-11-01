@@ -62,6 +62,11 @@ _(the Auriga Simulations)_
 
 ## Publications [[ADS list]](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22kwak%2C%20sungwon%22)&sort=date%20desc%2C%20bibcode%20desc)
 
+- **9.** The Formation and the Chemodynamical Evolution of the Stellar Haloes in the Auriga Simulations
+  - _**Kwak, SungWon**, et al. (in prep.)_
+
+- **8.** Understanding the Origin of Metal-rich RR Lyrae through the Auriga Simulations
+  - _**Kwak, SungWon**, et al. (in prep.)_
 
 - **7.** The Shape of the Galactic Halo up to 150 kpc through RR Lyrae and the Auriga Simulations
   - _**Kwak, SungWon**, et al. (submitted to A&A Letter)_
