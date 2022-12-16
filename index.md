@@ -1,7 +1,7 @@
 ## SungWon Kwak's Homepage
 <img src="./img/mypic3.jpg" height="300"> <img src="./img/me_rome3.jpg" height="300"> <img src="./img/me_rome1.jpg" height="300"> 
 
-Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student at the University of Rome (joint by Sapienza and Tor Vergata) and study the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My study will cover several interesting studies on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding its size, shape, and spin axis alignment with the stellar Halo and the Bulge.
+Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student at the University of Rome (joint by Sapienza and Tor Vergata) and study the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My study covers interesting features on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding its size, shape, and spin axis alignment with the stellar Halo and the Bulge.
 
 
 Aside from the Milky Way, I also worked on the formation of spiral, bar, and nuclear ring. For my **MS** thesis, I studied the evolution of dwarf galaxies in isolation and the effects of tidal force (galaxy-galaxy, galaxy-cluster) and merger. You can find more information on [my CV here](./file/CV_Kwak.pdf).
