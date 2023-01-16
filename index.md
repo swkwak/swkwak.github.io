@@ -1,7 +1,9 @@
 ## SungWon Kwak's Homepage
 <img src="./img/mypic3.jpg" height="300"> <img src="./img/me_rome3.jpg" height="300"> <img src="./img/me_rome1.jpg" height="300"> 
 
-Hello, I'm SungWon Kwak in Rome, Italy. I am a Ph.D student at the University of Rome (joint by Sapienza and Tor Vergata) and study the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My study covers interesting features on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding its size, shape, and spin axis alignment with the stellar Halo and the Bulge.
+_(Last updated in Jan. 2023)_
+
+Hello, I'm SungWon Kwak and a Ph.D student at the University of Rome (joint by La Sapienza and Tor Vergata). For my thesis, I am studying the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My research also covers interesting features on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding its size, shape, and spin axis alignment with the stellar Halo and the Bulge.
 
 
 Aside from the Milky Way, I also worked on the formation of spiral, bar, and nuclear ring. For my **MS** thesis, I studied the evolution of dwarf galaxies in isolation and the effects of tidal force (galaxy-galaxy, galaxy-cluster) and merger. You can find more information on [my CV here](./file/CV_Kwak.pdf).
@@ -21,8 +23,10 @@ Before coming to Rome, I've been to many cities around the world. I was born in 
 
 
 ## Education/Experience
+- Starting from Sept. 2023 **Postdoc** the Leibniz-Institute for Astrophysics Potsdam
+
 - 2019-now **Ph.D**. Astronomy & Astrophysics at the University of Rome, joint by Sapienza and Tor Vergata 
-(Defense expected in Jan. 2023)
+_(Dissertation in March 2023)_
 
 - 2016-2019 Compulsory Military Service (3 years)
 
@@ -96,4 +100,4 @@ _(the Auriga Simulations)_
 
 
 
-(Last updated in Sept. 2022)
+
