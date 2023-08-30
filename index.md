@@ -7,8 +7,7 @@ Hi, I am an astrophysicist working as a postdoc at the Leibniz Institute for Ast
 
 You can download my [CV here (pdf)](./file/CV_Kwak.pdf)
 
-Here's how to pronounce my name, [Youtube Link](https://www.youtube.com/watch?v=p1RKkRCiU90).
-(Sing-Sang-'Sung'+ Won)
+Like galaxy evolution, the way people pronounce my name has been evolving in countries as well. You can simply think it is [Sing-Sang-'Sung'+ Won]. Here's how to pronounce [Youtube Link](https://www.youtube.com/watch?v=p1RKkRCiU90).
 
 ## Short Bio
  <img src="./img/me_uw1.jpg" height="220"> <img src="./img/swiss3.jpg" height="220"> <img src="./img/me_paris1.jpg" height="220"> 
