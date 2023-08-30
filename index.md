@@ -1,17 +1,14 @@
 ## SungWon Kwak's Homepage
 <img src="./img/mypic3.jpg" height="300"> <img src="./img/me_rome3.jpg" height="300"> <img src="./img/me_rome1.jpg" height="300"> 
 
-_(Last updated in Jan. 2023)_
+_(Last updated in Aug. 2023)_
 
-Hi, I'm SungWon Kwak, a Ph.D student at the University of Rome (joint by La Sapienza and Tor Vergata). For my thesis, I am studying the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). My research also covers interesting features on bulge/disk regarding the metallicity gradients in nearby late-type galaxies, and on the dark matter Halo of the Milky Way regarding its size, shape, and spin axis alignment with the stellar Halo and the Bulge.
+Hi, I am an astrophysicist working as a postdoctoral researcher at the Leibniz Institute for Astrophysics Potsdam (AIP) in Germany. I use numerical simulations as my main tool to understand the galaxy formation and evolution. My Ph.D. study was about the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). Before that, I worked on various projects related to dwarf galaxies in cluster environments and the formation of spiral, bar, and nuclear ring in late-type disk galaxies.
 
-
-Aside from the Milky Way, I also worked on the formation of spiral, bar, and nuclear ring. For my **MS** thesis, I studied the evolution of dwarf galaxies in isolation and the effects of tidal force (galaxy-galaxy, galaxy-cluster) and merger. You can find more information on [my CV here](./file/CV_Kwak.pdf).
-
-
+## Short Bio
  <img src="./img/me_uw1.jpg" height="210"> <img src="./img/swiss3.jpg" height="210"> <img src="./img/me_paris1.jpg" height="210">
 
-Before coming to Rome, I've been to many cities around the world. I was born in **Daejeon**, the Republic of Korea (South Korea), and my family moved to **Seoul** when I was 10. After finishing my middle school in Seoul, I went to **USA** alone to study abroad. I went to a high school in **Las Vegas** for a semester and then transferred to the Storm King high school in **New York** where I graduated from. I started my undergraduate as an engineering major, but later became more interested in the outer world, so ended up doing double major in astronomy and physics at the University of Washington, **Seattle**. After spending one semester in **Geneva, Switzerland** as an internship student at CERN, I did my M.S. in Astronomy at Seoul National Univeristy and spent 3 years for mandatory military service in Daejeon, Korea. Now, I'm in **Rome, Italy**, and looking for a new place to continue my study and journey. 
+Before coming to Potsdam in Germany, I've been to many cities around the world. I was born in **Daejeon**, the Republic of Korea (South Korea), and my family moved to **Seoul** when I was 10. After finishing my middle school in Seoul, I went to **USA** alone to study abroad. I went to a high school in **Las Vegas** for a semester and then transferred to the Storm King high school in **New York** where I graduated from. I started my undergraduate as an engineering major, but later became more interested in the outer world, so ended up doing double major in astronomy and physics at the University of Washington, **Seattle**. After spending one semester in **Geneva, Switzerland (St.Genis, France)** as an internship student at CERN, I got M.S. in Astronomy at Seoul National Univeristy and spent 3 years for mandatory military service in Daejeon, Korea. My Ph.D. study in Astronomy and Astrophysics was carried at the University of **Rome, Italy** during the pandemic, and I graduated in March 2023. 
 
 
 [My GitHub](https://github.com/swkwak) 
