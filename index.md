@@ -7,6 +7,9 @@ Hi, I am an astrophysicist working as a postdoc at the Leibniz Institute for Ast
 
 You can download my [CV here (pdf)](./file/CV_Kwak.pdf)
 
+Here's how to pronounce my name, [Youtube Link](https://www.youtube.com/embed/tgbNymZ7vqY).
+(SungWon = Sing-Sang-'Sung', Win-'Won'-Won)
+
 ## Short Bio
  <img src="./img/me_uw1.jpg" height="220"> <img src="./img/swiss3.jpg" height="220"> <img src="./img/me_paris1.jpg" height="220"> 
  
