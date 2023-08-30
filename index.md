@@ -27,7 +27,7 @@ Before coming to Potsdam in Germany, I've been to many cities around the world. 
 - 2019-2022 **Ph.D**. Astronomy & Astrophysics at the University of Rome, joint by Sapienza and Tor Vergata 
 _(Dissertation in 2023.03)_
 
-- 2016-2019 Researcher at Korea Astronomy and Space Science Institute (Conscription)
+- 2016-2019 Researcher at Korea Astronomy and Space Science Institute (Conscription for 3 years)
 
 - 2014-2016 **M.S.** Astronomy at Seoul National University
 
