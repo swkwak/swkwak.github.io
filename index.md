@@ -35,6 +35,8 @@ _(Dissertation in 2023.03)_
 
 - 2009-2013 **B.S.** Physics & Astronomy at the University of Washington, Seattle
 
+- 2007-2009 Storm King High School 
+
 ## [Research](./research.html)
 
 <img src="./img/buckling1.png" height="150"> 
