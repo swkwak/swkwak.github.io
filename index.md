@@ -1,5 +1,5 @@
 ## SungWon Kwak's Homepage
-<img src="./img/mypic1.jpg" height="300">
+<img src="./img/mypic1.jpg" height="300"> <img src="./img/heart_nebula.jpg" height="300">
 _(Last updated in Aug. 2023)_
 
 Hi, I am an astrophysicist working as a postdoctoral researcher at the Leibniz Institute for Astrophysics Potsdam (AIP) in Germany. I use numerical simulations as my main tool to understand the galaxy formation and evolution. My Ph.D. study was about the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). Before that, I worked on various projects related to dwarf galaxies in cluster environments and the formation of spiral, bar, and nuclear ring in late-type disk galaxies.
