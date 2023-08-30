@@ -25,7 +25,7 @@ Before coming to Potsdam in Germany, I've been to many cities around the world. 
 
 
 
-## Education/Experience
+## Education/Employment
 - 2023.09- **Postdoc** the Leibniz-Institute for Astrophysics Potsdam, Germany
 
 - 2023.06-08 **Postdoc** Seoul National University, Korea
