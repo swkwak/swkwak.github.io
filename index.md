@@ -20,22 +20,22 @@ Before coming to Potsdam in Germany, I've been to many cities around the world. 
 
 
 ## Education/Experience
-- 2023.09- **Postdoc** the Leibniz-Institute for Astrophysics Potsdam
+- 2023.09- **Postdoc** the Leibniz-Institute for Astrophysics Potsdam, Germany
 
-- 2023.06-08 **Postdoc** Seoul National University
+- 2023.06-08 **Postdoc** Seoul National University, Korea
 
-- 2019-2022 **Ph.D**. Astronomy & Astrophysics at the University of Rome, joint by Sapienza and Tor Vergata 
+- 2019-2022 **Ph.D**. Astronomy & Astrophysics at the University of Rome, joint by Sapienza and Tor Vergata, Italy 
 _(Dissertation in 2023.03)_
 
 - 2016-2019 Researcher at Korea Astronomy and Space Science Institute (Conscription for 3 years)
 
-- 2014-2016 **M.S.** Astronomy at Seoul National University
+- 2014-2016 **M.S.** Astronomy at Seoul National University, Korea
 
-- Winter 2014 Research Intern at CERN
+- Winter 2014 Research Intern at CERN, Switzerland
 
-- 2009-2013 **B.S.** Physics & Astronomy at the University of Washington, Seattle
+- 2009-2013 **B.S.** Physics & Astronomy at the University of Washington, Seattle, USA
 
-- 2007-2009 Storm King High School, New York
+- 2007-2009 Storm King High School, New York, USA
 
 ## [Research](./research.html)
 
