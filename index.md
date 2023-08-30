@@ -1,5 +1,5 @@
 ## SungWon Kwak's Homepage
-<img src="./img/mypic3.jpg" height="300"> <img src="./img/me_rome3.jpg" height="300"> <img src="./img/me_rome1.jpg" height="300"> 
+<img src="./img/mypic2.jpg" height="300"> <img src="./img/me_rome3.jpg" height="300"> <img src="./img/me_rome1.jpg" height="300"> 
 
 _(Last updated in Aug. 2023)_
 
