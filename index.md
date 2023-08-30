@@ -5,6 +5,8 @@ _(Last updated in Aug. 2023)_
 
 Hi, I am an astrophysicist working as a postdoc at the Leibniz Institute for Astrophysics Potsdam (AIP) in Germany. I use numerical simulations as my main tool to understand the galaxy formation and evolution. My Ph.D. study was about the chemodynamical properties of the Galactic Halo and its formation scenario by comparing a large photometric/spectroscopic catalog of RR Lyrae variables and [the AURIGA simulations](https://wwwmpa.mpa-garching.mpg.de/auriga/). Before that, I worked on various projects related to dwarf galaxies in cluster environments and the formation of spiral, bar, and nuclear ring in late-type disk galaxies.
 
+You can download my [CV here](./file/CV_Kwak.pdf)
+
 ## Short Bio
  <img src="./img/me_uw1.jpg" height="210"> <img src="./img/swiss3.jpg" height="210"> <img src="./img/me_paris1.jpg" height="210">
 
