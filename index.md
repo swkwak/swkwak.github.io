@@ -1,5 +1,5 @@
 ## SungWon Kwak's Homepage
-<img src="./img/mypic1.jpg" height="300"> <img src="./img/heart_nebula.jpg" height="300">  
+<img src="./img/mypic1.jpg" height="300">  
 
 _(Last updated in Aug. 2023)_
 
@@ -8,7 +8,8 @@ Hi, I am an astrophysicist working as a postdoc at the Leibniz Institute for Ast
 You can download my [CV here (pdf)](./file/CV_Kwak.pdf)
 
 ## Short Bio
- <img src="./img/me_uw1.jpg" height="210"> <img src="./img/swiss3.jpg" height="210"> <img src="./img/me_paris1.jpg" height="210">
+ <img src="./img/me_uw1.jpg" height="210"> <img src="./img/swiss3.jpg" height="210"> <img src="./img/me_paris1.jpg" height="210"> 
+ <img src="./img/me_rome1.jpg" height="210"> <img src="./img/heart_nebula.jpg" height="210"> 
 
 Before coming to Potsdam in Germany, I've been to many cities around the world. I was born in **Daejeon**, the Republic of Korea (South Korea), and my family moved to **Seoul** when I was 10. After finishing my middle school in Seoul, I went to **USA** alone to study abroad. I went to a high school in **Las Vegas** for a semester and then transferred to the Storm King high school in **New York** where I graduated from. I started my undergraduate as an engineering major, but later became more interested in the outer world, so ended up doing double major in astronomy and physics at the University of Washington, **Seattle**. After spending one semester in **Geneva, Switzerland (St.Genis, France)** as an internship student at CERN, I got M.S. in Astronomy at Seoul National Univeristy and spent 3 years for mandatory military service in Daejeon, Korea. My Ph.D. study in Astronomy and Astrophysics was carried at the University of **Rome, Italy** during the pandemic, and the dissertation was made in March 2023. 
 
