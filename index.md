@@ -8,7 +8,9 @@ I mainly use numerical simulations to understand the formation and evolution of 
 Currently, I'm leading the SMUGGLE-Ring project [press release](https://www.aip.de/en/news/galactic-structures-grow-together/), which aims to understand the formation and evolution of nuclear disk, nuclear ring and nuclear star cluster in barred galaxies.
 
 [Download CV (pdf)](./file/CV__Curriculum_Vitae__SungWon_Kwak.pdf)
+
 [ADS publication](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22kwak%2C%20sungwon%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
 [ORCID](https://orcid.org/0000-0003-0957-6201): 0000-0003-0957-6201
 
 ## Short Bio
