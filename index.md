@@ -1,5 +1,5 @@
 ## SungWon Kwak's Homepage
-<img src="./img/passport.jpg" height="300">  
+<img src="./img/mypic5.jpg" height="300">  
 
 _(Last updated in Sept. 2026)_
 
